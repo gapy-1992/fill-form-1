@@ -1,7 +1,7 @@
 import com.kms.katalon.core.model.FailureHandling
-import internal.GlobalVariable as GlobalVariable
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import internal.GlobalVariable as GlobalVariable
 
 'Initialize test session: Open browser and set view port'
 
@@ -283,7 +283,7 @@ WebUI.enhancedClick(testObj)
 
 'step 21: Add visual checkpoint at Page contact step3'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC1-Verify Successful Contact Form Submission on page Contact_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC1-Verify Successful Submission of Contact Form_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

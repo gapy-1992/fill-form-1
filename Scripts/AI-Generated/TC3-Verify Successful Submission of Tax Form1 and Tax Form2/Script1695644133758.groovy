@@ -1,7 +1,7 @@
 import com.kms.katalon.core.model.FailureHandling
-import internal.GlobalVariable as GlobalVariable
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import internal.GlobalVariable as GlobalVariable
 
 'Initialize test session: Open browser and set view port'
 
@@ -171,7 +171,7 @@ WebUI.enhancedClick(testObj)
 
 'step 13: Add visual checkpoint at Page dvc-home tax-form1 tax-form2 tax-form3'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC3-Verify Successful Tax Form Submission on page Dvc Home Tax Form1 Tax Form2 Tax Form3_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC3-Verify Successful Submission of Tax Form1 and Tax Form2_visual_checkpoint')
 
 'Terminate test session: Close browser'
 
