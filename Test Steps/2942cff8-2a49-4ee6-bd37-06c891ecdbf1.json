@@ -1,0 +1,14 @@
+{
+    "steps": [
+        "step 1: Navigate to Page contact step2",
+        "step 2: At Page contact step2 click on input object",
+        "step 3: At Page contact step2 click on input object",
+        "step 4: At Page contact step2 click on input object",
+        "step 5: At Page contact step2 click on input radio buttons group",
+        "step 6: At Page contact step2 click on input radio buttons group",
+        "step 7: At Page contact step2 click on input radio buttons group",
+        "step 8: At Page contact step2 input on textarea member dddress",
+        "step 9: At Page contact step2 click on button member next --> navigate to Page contact step3",
+        "step 10: Add visual checkpoint at Page contact step3"
+    ]
+}

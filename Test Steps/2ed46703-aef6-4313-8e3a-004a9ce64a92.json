@@ -1,0 +1,17 @@
+{
+    "steps": [
+        "step 1: Navigate to Page dvc-home tax-form1 tax-form2",
+        "step 2: At Page dvc-home tax-form1 tax-form2 input on input name",
+        "step 3: At Page dvc-home tax-form1 tax-form2 input on input address",
+        "step 4: At Page dvc-home tax-form1 tax-form2 input on input phone",
+        "step 5: At Page dvc-home tax-form1 tax-form2 input on input email",
+        "step 6: At Page dvc-home tax-form1 tax-form2 click on input combo box demo",
+        "step 7: At Page dvc-home tax-form1 tax-form2 click on li combo box demo option 4",
+        "step 8: At Page dvc-home tax-form1 tax-form2 click on input combo box demo",
+        "step 9: At Page dvc-home tax-form1 tax-form2 click on li combo box demo option 4",
+        "step 10: At Page dvc-home tax-form1 tax-form2 click on input combo box demo",
+        "step 11: At Page dvc-home tax-form1 tax-form2 click on li combo box demo option 4",
+        "step 12: At Page dvc-home tax-form1 tax-form2 click on button next --> navigate to Page dvc-home tax-form1 tax-form2 tax-form3",
+        "step 13: Add visual checkpoint at Page dvc-home tax-form1 tax-form2 tax-form3"
+    ]
+}
